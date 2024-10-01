@@ -1,0 +1,3 @@
+# Write your Python code here...
+a = input(": ")
+print(a)
